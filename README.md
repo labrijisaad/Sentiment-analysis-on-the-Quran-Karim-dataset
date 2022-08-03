@@ -4,6 +4,13 @@
 </p>
 
 - 🎯 In this notebook, I tried to write a script that can **`label the sentiment of a Quran Karim Dataset`** ( in **English** and **French** ) using the pre-trained **`CamemBERT`** and **`VaderSentiment`** models.
+
+<p align="center">🎯❓ OBJECTIF ❓🎯</p>
+
+```
+>>> 🎯 The resulting labeled dataset can be used to train sentiment analysis models on rare languages (in our case "Wolof" language) 🎯
+```
+
 - 🙌 Notebook made by [@labriji_saad](https://github.com/labrijisaad)
 - 🔗 Linledin [@labriji_saad](https://www.linkedin.com/in/labrijisaad/)
 - 📫 Feel free to contact me if anything is wrong or if anything needs to be changed 😎!  **labrijisaad@gmail.com**
