@@ -1,4 +1,4 @@
-## 📊 `Sentiment analysis on the Quran Karim dataset` ☪️️ :
+## 📊 `Sentiment analysis on the Quran Karim dataset` ☪️️
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74627083/157457233-29354868-6e5a-4079-848e-c510af92ca58.jpg" />
 </p>
